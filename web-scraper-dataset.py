@@ -3,7 +3,7 @@ import os
 from concurrent.futures import ThreadPoolExecutor
 
 # Base URL for the images
-base_url = "https://starzone.ragalahari.com/april2021/hd/anjali-maguva-nee-vijayam-event/anjali-maguva-nee-vijayam-event{}.jpg"
+base_url = ""
 
 # Range of image numbers you want to download
 start_number = 1  # Starting number
